@@ -1,4 +1,5 @@
 # Contents
+* Lecture content based on presentation created by Dr. Krysta Svore General Manager Microsoft Quantum
 ### Lecture #1:
 * Complex Numbers, Polar Form, Unit Information, Multiple Qubits, Dirac Notation, Orthonormality, Entanglement, Orthogonal Measurement
 ### Lecture #2:

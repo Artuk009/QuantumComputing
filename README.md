@@ -8,4 +8,5 @@
 * Bell States
 ### Practice Problems (Thomas Wong)
 * Select problems from the Quantum Information textbook: Wong, T. G. (2022). Introduction to classical and quantum computing. Rooted Grove.
-* Chapter 2: Measurement, Normalization, Spherical Coordinates, Linear Maps, One Qubit Gates, Circuit Diagrams
+* Chapter #2: Measurement, Normalization, Spherical Coordinates, Linear Maps, One Qubit Gates, Circuit Diagrams
+* Chapter #3: Vectors

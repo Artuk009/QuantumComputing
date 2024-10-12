@@ -10,3 +10,7 @@
 * Select problems from the Quantum Information textbook: Wong, T. G. (2022). Introduction to classical and quantum computing. Rooted Grove.
 * Chapter #2: Measurement, Normalization, Spherical Coordinates, Linear Maps, One Qubit Gates, Circuit Diagrams
 * Chapter #3: Vectors
+##### References:
+* Svore, K. (2019). Quantum Computing and  Q# Programming. Microsoft Quantum.
+* Watrous, J. (n.d.). Basics of quantum information. IBM Quantum Learning. https://learning.quantum.ibm.com/course/basics-of-quantum-information 
+* Wong, T. G. (2022). Introduction to classical and quantum computing. Rooted Grove.

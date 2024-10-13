@@ -9,7 +9,7 @@
 ### Practice Problems (Thomas Wong)
 * Select problems from Quantum Information textbook (Wong, 2022)
 * Chapter #2: Measurement, Normalization, Spherical Coordinates, Linear Maps, One Qubit Gates, Circuit Diagrams
-* Chapter #3: Vectors, Orthonormality
+* Chapter #3: Vectors, Orthonormality, Change of Basis Measurement
 ##### References:
 * Nielsen, M. A., & Chuang, I. L. (2011). Quantum Computation and Quantum Information. Cambridge University Press. 
 * Svore, K. (2019). Quantum Computing and  Q# Programming. Microsoft Quantum.

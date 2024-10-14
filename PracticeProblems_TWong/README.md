@@ -3,4 +3,4 @@
 ## Contents
 * Select problems from Quantum Information textbook (Wong, 2022)
 * Chapter #2: Measurement, Normalization, Spherical Coordinates, Linear Maps, One Qubit Gates, Circuit Diagrams
-* Chapter #3: Vectors, Orthonormality, Change of Basis Measurement
+* Chapter #3: Vectors, Orthonormality, Change of Basis Measurement, Quantum Gates

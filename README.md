@@ -1,5 +1,6 @@
 # Contents
 * Lecture content based on presentation created by Dr. Krysta Svore General Manager Microsoft Quantum
+* Additional lecture material and clarification provided by Dr. Julian Rrushi, faculty of the department of Computer Science and Engineering at Oakland University 
 ### Lecture #1:
 * Complex Numbers, Polar Form, Unit Information, Multiple Qubits, Dirac Notation, Orthonormality, Entanglement, Orthogonal Measurement
 ### Lecture #2:

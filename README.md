@@ -15,5 +15,6 @@
 * Arfken, G. B., Harris, F. E., & Weber, H.-J. (2012). Mathematical Methods for Physicists: A Comprehensive Guide. Elsevier. 
 * Nielsen, M. A., & Chuang, I. L. (2011). Quantum Computation and Quantum Information. Cambridge University Press. 
 * Svore, K. (2019). Quantum Computing and  Q# Programming. Microsoft Quantum.
-* Watrous, J. (n.d.). Basics of quantum information. IBM Quantum Learning. https://learning.quantum.ibm.com/course/basics-of-quantum-information 
+* Watrous, J. (n.d.). Basics of quantum information. IBM Quantum Learning. https://learning.quantum.ibm.com/course/basics-of-quantum-information
+* Wojcieszyn, F. (2023). Introduction to quantum computing with Q# . Strathweb. https://www.strathweb.com/2021/02/introduction-to-quantum-computing-with-q
 * Wong, T. G. (2022). Introduction to Classical and Quantum Computing. Rooted Grove.

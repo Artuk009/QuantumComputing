@@ -8,7 +8,7 @@
 ### Lecture #3
 * Bell States, Teleportation, Introductory Q#
 ### Lecture #4
-* Oracle, Phase Oracle, Deutsch's Algorithm
+* Oracle, Phase Oracle, Deutsch's Algorithm, Deutsch-Jozsa Algorithm
 ### Lecture #5
 * Fourier Series, Continuous Fourier Transforms
 ##### References:

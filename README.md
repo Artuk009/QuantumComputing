@@ -10,7 +10,7 @@
 ### Lecture #4
 * Oracle, Phase Oracle, Deutsch's Algorithm, Deutsch-Jozsa Algorithm
 ### Lecture #5
-* Fourier Series, Continuous Fourier Transforms
+* Fourier Series, Continuous Fourier Transforms, Discrete Fourier Transform, Quantum Fourier Transform
 ##### References:
 * Arfken, G. B., Harris, F. E., & Weber, H.-J. (2012). Mathematical Methods for Physicists: A Comprehensive Guide. Elsevier. 
 * Nielsen, M. A., & Chuang, I. L. (2011). Quantum Computation and Quantum Information. Cambridge University Press. 

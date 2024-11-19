@@ -11,6 +11,8 @@
 * Oracle, Phase Oracle, Deutsch's Algorithm, Deutsch-Jozsa Algorithm
 ### Lecture #5
 * Fourier Series, Continuous Fourier Transforms, Discrete Fourier Transform, Quantum Fourier Transform
+### Lecture #6
+* Eigenvalues and Eigenvectors (states), Phase Estimation Problem, Phase Estimation Procedure
 ##### References:
 * Arfken, G. B., Harris, F. E., & Weber, H.-J. (2012). Mathematical Methods for Physicists: A Comprehensive Guide. Elsevier. 
 * Nielsen, M. A., & Chuang, I. L. (2011). Quantum Computation and Quantum Information. Cambridge University Press. 

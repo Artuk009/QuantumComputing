@@ -6,7 +6,7 @@
 ### Lecture #2:
 * Classical Boolean Logic, Controlled Not Gate, Circuit Diagrams, No-Cloning Theorem, Quantum Logic Gates, Preparing a State in Superposition, Changing the Phase, The Bloch Sphere, General Single Qubit Unitary Gates, Rotation Gates, Tensor Products of Quantum Gates
 ### Lecture #3
-* Bell States, Teleportation, Introductory Q#
+* Bell States, Quantum Teleportation, Introductory Q#
 ### Lecture #4
 * Oracle, Phase Oracle, Deutsch's Algorithm, Deutsch-Jozsa Algorithm
 ### Lecture #5
